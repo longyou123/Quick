@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\蒋文龙\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\0c128b13a5057545c6386a550e704eb7\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\蒋文龙\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\0c128b13a5057545c6386a550e704eb7\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\55c818c091afa0a4ccfbb9c859d42a12\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\55c818c091afa0a4ccfbb9c859d42a12\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]
