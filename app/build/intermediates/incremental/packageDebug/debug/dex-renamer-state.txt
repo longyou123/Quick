@@ -1,4 +1,4 @@
-#Mon Jun 25 22:51:02 CST 2018
+#Wed Jun 27 23:21:04 CST 2018
 base.0=D\:\\studio_work\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
-path.0=classes.dex
 renamed.0=classes.dex
+file.0=D\:\\studio_work\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18\\classes.dex

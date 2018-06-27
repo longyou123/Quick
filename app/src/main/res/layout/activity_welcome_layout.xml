@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewp_01"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       ></android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dip"
+            android:orientation="horizontal">
+
+
+            <View
+                android:id="@+id/dot_1"
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_marginLeft="4dip"
+                android:layout_marginRight="4dip"
+                android:background="@drawable/dot_nomal" />
+
+            <View
+                android:id="@+id/dot_2"
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_marginLeft="4dip"
+                android:layout_marginRight="4dip"
+                android:background="@drawable/dot_select" />
+
+            <View
+                android:id="@+id/dot_3"
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_marginLeft="4dip"
+                android:layout_marginRight="4dip"
+                android:background="@drawable/dot_select" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
