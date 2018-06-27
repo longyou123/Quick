@@ -1,19 +1,19 @@
 [
     {
-        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_nomal.png",
         "source": "F:\\android\\Quick\\app\\src\\main\\res\\drawable\\dot_nomal.png"
     },
     {
+        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\55c818c091afa0a4ccfbb9c859d42a12\\res\\drawable\\design_fab_background.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\8ca8c3588c10541b5ee12ce21d16b524\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_progress.png",
@@ -21,7 +21,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\55c818c091afa0a4ccfbb9c859d42a12\\res\\drawable\\navigation_empty_icon.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\8ca8c3588c10541b5ee12ce21d16b524\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
@@ -29,7 +29,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\55c818c091afa0a4ccfbb9c859d42a12\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\8ca8c3588c10541b5ee12ce21d16b524\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
@@ -37,23 +37,23 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_edit_text_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_cab_background_top_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\55c818c091afa0a4ccfbb9c859d42a12\\res\\drawable\\design_snackbar_background.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\8ca8c3588c10541b5ee12ce21d16b524\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -73,11 +73,11 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_textfield_search_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_btn_colored_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
@@ -85,15 +85,15 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ic_clear_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ratingbar_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
@@ -101,7 +101,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_btn_borderless_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
@@ -109,7 +109,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_bg.xml",
@@ -117,11 +117,11 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_btn_check_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_tab_indicator_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
@@ -145,19 +145,19 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_nomal.png",
         "source": "D:\\studio_work\\Quick\\app\\src\\main\\res\\drawable\\dot_nomal.png"
     },
     {
-        "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\蒋文龙\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\8dfe1d65c4cda40bf8f43cb0289c255e\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\蒋文龙\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\8dfe1d65c4cda40bf8f43cb0289c255e\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\蒋文龙\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\8dfe1d65c4cda40bf8f43cb0289c255e\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button.xml",
@@ -165,7 +165,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_text_cursor_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
@@ -177,7 +177,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_btn_radio_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -193,7 +193,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\0981b79d663a3383640db95c71d76626\\res\\drawable\\notification_icon_background.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\eda84468696a36e4ffb64db7bf738706\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
@@ -201,15 +201,15 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\55c818c091afa0a4ccfbb9c859d42a12\\res\\drawable\\design_password_eye.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\8ca8c3588c10541b5ee12ce21d16b524\\res\\drawable\\design_password_eye.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
@@ -221,7 +221,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
@@ -233,7 +233,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\0981b79d663a3383640db95c71d76626\\res\\drawable\\notification_tile_bg.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\eda84468696a36e4ffb64db7bf738706\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -245,7 +245,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_select.png",
@@ -273,19 +273,19 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_item_background_holo_light.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -297,11 +297,11 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\0981b79d663a3383640db95c71d76626\\res\\drawable\\notification_bg_low.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\eda84468696a36e4ffb64db7bf738706\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -317,7 +317,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_vector_test.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_select.png",
@@ -325,15 +325,15 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\0981b79d663a3383640db95c71d76626\\res\\drawable\\notification_bg.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\eda84468696a36e4ffb64db7bf738706\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_seekbar_track_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -341,7 +341,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_dialog_material_background.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
@@ -357,7 +357,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
@@ -373,7 +373,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\tooltip_frame_dark.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
@@ -385,7 +385,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ic_search_api_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
@@ -397,7 +397,7 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\tooltip_frame_light.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
@@ -405,6 +405,6 @@
     },
     {
         "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\0db944537db9be4aae7a7afeb31bf388\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\c23f9bc0df64459fa1bdfda911f04827\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     }
 ]
