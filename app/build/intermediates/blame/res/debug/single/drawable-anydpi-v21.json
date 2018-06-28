@@ -8,19 +8,7 @@
         "source": "F:\\android\\Quick\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\8ca8c3588c10541b5ee12ce21d16b524\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml",
-        "source": "D:\\studio_work\\Quick\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
-    },
-    {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
         "source": "C:\\Users\\蒋文龙\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\0c128b13a5057545c6386a550e704eb7\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\8ca8c3588c10541b5ee12ce21d16b524\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\studio_work\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "D:\\studio_work\\Quick\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
         "merged": "F:\\android\\Quick\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "F:\\android\\Quick\\app\\src\\main\\res\\menu\\menu_main.xml"
     }

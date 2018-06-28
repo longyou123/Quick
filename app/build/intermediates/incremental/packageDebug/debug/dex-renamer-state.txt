@@ -1,4 +1,19 @@
-#Wed Jun 27 23:21:04 CST 2018
-base.0=D\:\\studio_work\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+#Thu Jun 28 16:46:06 CST 2018
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\studio_work\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18\\classes.dex
+base.5=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.4=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.3=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.2=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.1=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+base.0=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+file.5=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11\\classes.dex
+file.4=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12\\classes.dex
+file.3=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15\\classes.dex
+file.2=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13\\classes.dex
+file.1=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16\\classes.dex
+file.0=F\:\\android\\Quick\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14\\classes.dex
