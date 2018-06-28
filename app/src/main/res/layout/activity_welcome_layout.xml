@@ -4,18 +4,17 @@
     android:layout_height="match_parent">
 
 
-
     <android.support.v4.view.ViewPager
-        android:id="@+id/viewp_01"
+        android:id="@+id/pager"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-       ></android.support.v4.view.ViewPager>
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
 
     <LinearLayout
+        android:id="@+id/dot"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
         android:layout_marginBottom="25dp"
         android:gravity="center"
         android:orientation="vertical">
@@ -54,4 +53,30 @@
         </LinearLayout>
     </LinearLayout>
 
+    <TextView
+        android:id="@+id/homepage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/dot"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/tem_margin"
+        android:background="@color/sian_header_backgroud"
+        android:paddingBottom="@dimen/fiv_margin"
+        android:paddingLeft="@dimen/tem_margin"
+        android:paddingRight="@dimen/tem_margin"
+        android:paddingTop="@dimen/fiv_margin"
+        android:text="立即体验"
+        android:visibility="gone"
+        android:textSize="@dimen/common_littlez"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="@dimen/tem_margin"
+        android:text="跳过"
+        android:textColor="@color/white"
+        android:textSize="@dimen/common_littlez" />
 </RelativeLayout>

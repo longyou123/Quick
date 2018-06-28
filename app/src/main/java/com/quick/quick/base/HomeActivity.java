@@ -26,7 +26,7 @@ public class HomeActivity  extends Activity{
             public void run() {
                 super.run();
                 try {
-                    sleep(1000);
+                    sleep(1500);
 
                     startActivity(new Intent(HomeActivity.this,WelcomeActivity.class));
                     finish();

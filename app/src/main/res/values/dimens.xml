@@ -1,3 +1,10 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tem_margin">10dp</dimen>
+    <dimen name="fiv_margin">5dp</dimen>
+
+
+    <!--字体-->
+    <dimen name="common_littlez">18sp</dimen>
+    <dimen name="common_little">16sp</dimen>
 </resources>
